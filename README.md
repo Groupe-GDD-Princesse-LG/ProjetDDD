@@ -2,6 +2,8 @@
 
 Premier test de projet collaboratif sur Github.
 
-Changement dans le fork.
-Mathieu : Je travaille chez moi.
-Ève : Ah bon ?!
+Changements dans le fork :
+
+- Mathieu : Je travaille chez moi.
+
+- Ève : Ah bon ?! 
