@@ -1,4 +1,11 @@
 # ProjetDDD
 
 Premier test de projet collaboratif sur Github.
-Je fais mon premier commit
+
+Changements dans le fork :
+
+- Danielle : Je fais mon premier commit.
+
+- Mathieu : Je travaille chez moi.
+
+- Ève : Ah bon ?! 
